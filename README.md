@@ -48,7 +48,6 @@ DEVELOPED BY : NIRAUNJANA GAYATHRI G R
 REGISTER NO. : 212222230096
 ```
 ```
-# Step 1: Import numpy
 import numpy as np
 
 # Step 2: Create arrays of different dimensions
