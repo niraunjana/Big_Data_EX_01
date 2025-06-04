@@ -1,6 +1,6 @@
-# Big_Data_EX_01
+# Big_Data_EX_04
 
-# Ex:01 - Install, configure and run python, numPy and Pandas
+# Ex:04 - Install, configure and run python, numPy and Pandas
 
 ## Aim:
 To install, configure, and execute Python programs using NumPy and understand its basic functionalities like array creation, dimension handling, and indexing.
